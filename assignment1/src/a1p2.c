@@ -1,6 +1,4 @@
 #include "../include/tictactoe.h"
-#include <stdio.h>
-
 
 
 int main (){

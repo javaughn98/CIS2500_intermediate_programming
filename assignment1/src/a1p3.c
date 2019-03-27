@@ -1,4 +1,4 @@
-#include "tictactoe.h"
+#include "../include/tictactoe.h"
 
 
 int main(int argc, char *argv[]) {

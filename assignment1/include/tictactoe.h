@@ -1,13 +1,10 @@
-/* tictactoe.h
-Header file
-Name: Javaughn Burke (javaughn@uoguelph.ca)
-StudentID: 1025920
-*/
+
+#ifndef TICTACTOE_H
+#define TICTACTOE_H
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#ifndef TICTACTOE_H
-#define TICTACTOE_H
 
 unsigned short b3tous(char b3[10]);
 void b3fromus(char b3[10], unsigned short us);

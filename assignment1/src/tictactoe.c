@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "tictactoe.h"
+#include "../include/tictactoe.h"
 #include <stdlib.h>
 
 unsigned short b3tous(char b3[10]) {
